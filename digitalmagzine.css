@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.class-1 {
+    background-image: linear-gradient(yellow, brown);
+    background-size: cover;
+    padding: 20px;
+    text-align: center;
+
+}
+
+.heading-class-1 {
+    font-family: Monoton;
+    font-size: 48px;
+    font-weight: bold;
+    text-decoration: underline;
+    text-decoration-color: white;
+    padding-bottom: 20px;
+}
+
+.paragraph-class-1 {
+    font-family: Monospace;
+    font-style: italic;
+    font-size: 24px;
+    padding-top: 20px;
+}
+
+.button-class-1 {
+    border-radius: 20px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-right: 28px;
+    padding-left: 28px;
+    background-color: black;
+    color: white;
+    border-color: white;
+    border-style: bold;
+    font-family: Monospace;
+}
+
+.card-1 {
+    text-align: center;
+    background-color: lightblue;
+    border-radius: 20px;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.card-image-details {
+    border-radius: 10px;
+}
+
+.parapgraph-card-class {
+    font-size: 24px;
+    font-family: Playfair;
+    padding-top: 10px;
+}
+
+.heading-class-team-1 {
+    font-family: Sans;
+    font-size: 28px;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
+
+.page-2-paragraph-class {
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+    font-style: italic;
+    font-family: Sans;
+}
+
+.team-1-class {
+    background-color: #676767;
+    background-size: cover;
+    padding-bottom: 50px;
+}
+
+.team-2-class {
+    background-color: #f09537;
+    background-size: cover;
+    padding-bottom: 50px;
+}
+
+.team-3-class{
+    background-color: lightblue;
+    background-size: cover;
+    padding-bottom: 50px;
+}
+.image-adjustment{
+    padding: 20px;
+    border-radius: 20px;
+}
